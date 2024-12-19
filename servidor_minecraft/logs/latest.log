@@ -1646,3 +1646,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'epicsamurai:mask_straw_hat'
 [19Dec2024 20:43:36.782] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
 [19Dec2024 20:43:36.782] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
 [19Dec2024 20:48:16.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS has made the advancement [Monster Hunter]
+[19Dec2024 20:51:01.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS has made the advancement [Sweet Dreams]
+[19Dec2024 20:51:22.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS has made the advancement [Stone Age]
+[19Dec2024 20:55:22.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: simonpro168[/127.10.227.7:37505] logged in with entity id 3083 at (-4.5, 66.0, 22.5)
+[19Dec2024 20:55:22.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to simonpro168
+[19Dec2024 20:55:22.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to simonpro168
+[19Dec2024 20:55:22.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to simonpro168
+[19Dec2024 20:55:22.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to simonpro168
+[19Dec2024 20:55:22.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to simonpro168
+[19Dec2024 20:55:22.484] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to simonpro168
+[19Dec2024 20:55:22.485] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to simonpro168
+[19Dec2024 20:55:22.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 joined the game
+[19Dec2024 20:56:48.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 is bleeding. simonpro168 was slain by OmegaPlayerJJS
+[19Dec2024 20:57:31.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS is bleeding. OmegaPlayerJJS was slain by simonpro168
+[19Dec2024 20:57:45.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS is bleeding. OmegaPlayerJJS was slain by simonpro168
+[19Dec2024 21:01:02.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 has made the advancement [Getting an Upgrade]

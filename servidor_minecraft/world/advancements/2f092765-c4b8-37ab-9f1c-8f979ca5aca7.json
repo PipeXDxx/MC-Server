@@ -1,0 +1,58 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-19 20:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-19 20:57:24 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-19 20:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-19 21:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-19 21:01:02 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-19 20:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-19 20:59:04 +0000",
+      "minecraft:plains": "2024-12-19 20:55:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-19 20:57:24 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
