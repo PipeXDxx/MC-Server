@@ -1743,3 +1743,65 @@ com.google.gson.JsonSyntaxException: Unknown item 'epicsamurai:mask_straw_hat'
 [19Dec2024 21:44:35.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 is bleeding. simonpro168 was slain by Zombie
 [19Dec2024 21:45:03.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 was slain by Zombie
 [19Dec2024 21:45:17.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_jotaroo has made the advancement [Isn't It Iron Pick]
+[19Dec2024 21:46:11.962] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:23.424] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:23.424] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:23.424] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:23.424] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:23.424] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:23.424] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:23.425] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:25.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaPlayerJJS lost connection: Disconnected
+[19Dec2024 21:47:25.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS left the game
+[19Dec2024 21:47:25.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: simonpro168 lost connection: Disconnected
+[19Dec2024 21:47:25.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 left the game
+[19Dec2024 21:47:25.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr_jotaroo lost connection: Disconnected
+[19Dec2024 21:47:25.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_jotaroo left the game
+[19Dec2024 21:47:25.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37260ms or 745 ticks behind
+[19Dec2024 21:47:35.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OmegaPlayerJJS[/127.151.236.222:41309] logged in with entity id 31990 at (-584.9791819311106, 91.0, 1178.243555030987)
+[19Dec2024 21:47:35.123] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OmegaPlayerJJS
+[19Dec2024 21:47:35.125] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OmegaPlayerJJS
+[19Dec2024 21:47:35.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OmegaPlayerJJS
+[19Dec2024 21:47:35.129] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OmegaPlayerJJS
+[19Dec2024 21:47:35.131] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OmegaPlayerJJS
+[19Dec2024 21:47:35.135] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OmegaPlayerJJS
+[19Dec2024 21:47:35.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OmegaPlayerJJS
+[19Dec2024 21:47:35.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS joined the game
+[19Dec2024 21:47:38.417] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:38.418] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:38.418] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:38.418] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:38.418] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:38.418] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:38.418] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:38.418] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:47:45.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: simonpro168[/127.10.227.7:37437] logged in with entity id 32585 at (280.60391906898985, 66.49520087700593, -534.9262597588572)
+[19Dec2024 21:47:45.581] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to simonpro168
+[19Dec2024 21:47:45.581] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to simonpro168
+[19Dec2024 21:47:45.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to simonpro168
+[19Dec2024 21:47:45.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to simonpro168
+[19Dec2024 21:47:45.584] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to simonpro168
+[19Dec2024 21:47:45.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to simonpro168
+[19Dec2024 21:47:45.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to simonpro168
+[19Dec2024 21:47:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 joined the game
+[19Dec2024 21:49:28.184] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:28.185] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:28.185] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:28.185] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:28.186] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:28.186] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:28.186] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:28.187] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:28.187] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:28.187] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[19Dec2024 21:49:40.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaPlayerJJS lost connection: Disconnected
+[19Dec2024 21:49:40.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS left the game
+[19Dec2024 21:51:31.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/32663, l='ServerLevel[world]', x=229.51, y=68.00, z=-537.45] died, message: 'Nitwit was slain by simonpro168'
+[19Dec2024 21:55:53.621] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/32619, l='ServerLevel[world]', x=293.30, y=65.00, z=-528.30] died, message: 'Nitwit was slain by simonpro168'
+[19Dec2024 21:56:24.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 has made the advancement [Isn't It Iron Pick]
+[19Dec2024 22:00:57.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/32704, l='ServerLevel[world]', x=246.52, y=65.54, z=-525.51] died, message: 'Mason was slain by simonpro168'
+[19Dec2024 22:01:35.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 has made the advancement [Ol' Betsy]
+[19Dec2024 22:02:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 has made the advancement [Not Today, Thank You]
+[19Dec2024 22:05:33.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32664, l='ServerLevel[world]', x=237.71, y=68.00, z=-537.64] died, message: 'Villager was slain by Zombie'
+[19Dec2024 22:05:46.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/32744, l='ServerLevel[world]', x=293.30, y=65.00, z=-567.71] died, message: 'Fisherman was slain by simonpro168'
+[19Dec2024 22:06:06.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/32743, l='ServerLevel[world]', x=289.42, y=65.56, z=-570.52] died, message: 'Fisherman was slain by simonpro168'
