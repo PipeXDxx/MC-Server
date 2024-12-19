@@ -319,7 +319,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-19 21:05:03 +0000",
       "minecraft:spider": "2024-12-19 20:48:16 +0000",
+      "minecraft:creeper": "2024-12-19 21:06:19 +0000",
       "minecraft:zombie": "2024-12-19 20:49:13 +0000"
     },
     "done": false
@@ -363,6 +365,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-19 20:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-19 21:05:13 +0000"
     },
     "done": true
   },
@@ -516,6 +524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-19 21:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-12-19 20:44:06 +0000"
@@ -531,6 +545,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-19 20:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-19 21:02:11 +0000"
     },
     "done": true
   },
@@ -669,6 +689,12 @@
   "smallships:recipes/transportation/acacia_drakkar": {
     "criteria": {
       "in_water": "2024-12-19 20:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-19 21:08:22 +0000"
     },
     "done": true
   },
@@ -857,6 +883,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-19 20:58:19 +0000",
       "cooked_beef": "2024-12-19 20:55:53 +0000",
+      "porkchop": "2024-12-19 21:09:04 +0000",
       "mutton": "2024-12-19 20:47:55 +0000",
       "rotten_flesh": "2024-12-19 20:50:47 +0000"
     },
