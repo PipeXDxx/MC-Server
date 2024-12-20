@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "7b3c51c6-faa0-3287-8772-303673024110",
+    "name": "OmegaPlayerJJS",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
