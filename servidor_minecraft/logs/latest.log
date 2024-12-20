@@ -1243,3 +1243,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'epicsamurai:mask_straw_hat'
 [20Dec2024 17:23:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_jotaroo> xd
 [20Dec2024 17:28:01.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaPlayerJJS lost connection: Disconnected
 [20Dec2024 17:28:01.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS left the game
+[20Dec2024 17:34:59.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_jotaroo> las habilidades se aprenden solo con los libros?
+[20Dec2024 17:35:05.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simonpro168> si
+[20Dec2024 17:35:11.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_jotaroo> ah bno
+[20Dec2024 17:35:50.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simonpro168> las puedes ver con la tecla asignada que es la k pero la k tambien abre el inventari tienes que cambiarlo
+[20Dec2024 17:39:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 is bleeding. simonpro168 was slain by Zombie
+[20Dec2024 17:39:58.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_jotaroo has made the advancement [Take Aim]
+[20Dec2024 17:40:30.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: simonpro168 lost connection: Disconnected
+[20Dec2024 17:40:30.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 left the game
+[20Dec2024 17:40:30.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 was slain by Zombie
+[20Dec2024 17:41:15.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: simonpro168[/127.10.227.7:40849] logged in with entity id 25096 at (-1727.8286912032167, 70.0, 104.56584189138002)
+[20Dec2024 17:41:15.769] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to simonpro168
+[20Dec2024 17:41:15.770] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to simonpro168
+[20Dec2024 17:41:15.770] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to simonpro168
+[20Dec2024 17:41:15.771] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to simonpro168
+[20Dec2024 17:41:15.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to simonpro168
+[20Dec2024 17:41:15.775] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to simonpro168
+[20Dec2024 17:41:15.776] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to simonpro168
+[20Dec2024 17:41:15.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 joined the game
+[20Dec2024 17:41:30.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr_jotaroo lost connection: Disconnected
+[20Dec2024 17:41:30.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_jotaroo left the game
+[20Dec2024 17:42:48.402] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e390af7[id=<null>,name=OmegaPlayerJJS,properties={},legacy=false] (/127.151.236.222:57275) lost connection: Disconnected
+[20Dec2024 17:43:21.706] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70aae530[id=<null>,name=OmegaPlayerJJS,properties={},legacy=false] (/127.151.236.222:40565) lost connection: Disconnected
+[20Dec2024 17:43:35.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OmegaPlayerJJS[/127.151.236.222:59325] logged in with entity id 26764 at (-1698.1204602263576, 70.0, 101.5505709906531)
+[20Dec2024 17:43:35.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to OmegaPlayerJJS
+[20Dec2024 17:43:35.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to OmegaPlayerJJS
+[20Dec2024 17:43:35.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to OmegaPlayerJJS
+[20Dec2024 17:43:35.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to OmegaPlayerJJS
+[20Dec2024 17:43:35.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to OmegaPlayerJJS
+[20Dec2024 17:43:35.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to OmegaPlayerJJS
+[20Dec2024 17:43:35.630] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to OmegaPlayerJJS
+[20Dec2024 17:43:35.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS joined the game
+[20Dec2024 17:45:32.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaPlayerJJS: Teleported simonpro168 to OmegaPlayerJJS]
+[20Dec2024 17:46:05.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaPlayerJJS lost connection: Disconnected
+[20Dec2024 17:46:05.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaPlayerJJS left the game
+[20Dec2024 17:47:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simonpro168> l
+[20Dec2024 17:47:42.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: simonpro168 lost connection: Disconnected
+[20Dec2024 17:47:42.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simonpro168 left the game
